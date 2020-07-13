@@ -10,7 +10,7 @@
 	<body>
 		<header> Ejemplo </header>
 		
-			 <form action="?" method="POST">
+			 <form action="procesa.php" method="POST">
 				<input type="text" name="nombre" placeholder="Nombre" >
 				<input type="text" name="apellido" placeholder="Apellido" >
 				      <div class="g-recaptcha" data-sitekey="6Lf_BrEZAAAAABN9WZAveCYTOYxiSry43P3Hkolp"></div>
